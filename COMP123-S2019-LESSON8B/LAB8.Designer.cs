@@ -1,6 +1,6 @@
 ﻿namespace COMP123_S2019_LESSON8B
 {
-    partial class Form1
+    partial class LAB8
     {
         /// <summary>
         /// Required designer variable.
@@ -28,10 +28,19 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // LAB8
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.BackColor = System.Drawing.Color.LightGray;
+            this.ClientSize = new System.Drawing.Size(614, 769);
+            this.Name = "LAB8";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "LAB8";
+            this.ResumeLayout(false);
+
         }
 
         #endregion

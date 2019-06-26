@@ -16,7 +16,7 @@ namespace COMP123_S2019_LESSON8B
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new LAB8());
+            Application.Run(new LAB8Form());
         }
     }
 }

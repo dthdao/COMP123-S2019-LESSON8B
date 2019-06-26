@@ -46,16 +46,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="LAB8.cs">
+    <Compile Include="LAB8Form.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="LAB8.Designer.cs">
-      <DependentUpon>LAB8.cs</DependentUpon>
+    <Compile Include="LAB8Form.Designer.cs">
+      <DependentUpon>LAB8Form.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="LAB8.resx">
-      <DependentUpon>LAB8.cs</DependentUpon>
+    <EmbeddedResource Include="LAB8Form.resx">
+      <DependentUpon>LAB8Form.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
